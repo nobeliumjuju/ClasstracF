@@ -2,7 +2,7 @@
 
 A desktop attendance tracker written in C with [raylib](https://www.raylib.com/). You pick a subject, mark each student as Present, Absent or Late, and save the session as a dated CSV file. Saved sessions can be reopened or deleted from inside the app.
 
-This is our group project for AISP 121 (First Year / First Semester, BIT) at Kathmandu University, Department of Computer Science and Engineering. It was built to practise structs, enums, arrays, file handling and splitting a C program into modules.
+This is our group project for AISP 121 (First Year / First Semester, BIT) at Kathmandu University, Department of Engineering. It was built to practise structs, enums, arrays, file handling and splitting a C program into modules.
 
 ## Screenshots
 
@@ -81,4 +81,4 @@ The Makefile picks linker flags for Windows (MinGW), macOS (Homebrew raylib) and
 | Bilisha Khatri | 18 |
 | Sadikshya Neupane | 23 |
 
-Supervised by Mr. Sanjog Sigdel, Department of Computer Science and Engineering, Kathmandu University.
+
