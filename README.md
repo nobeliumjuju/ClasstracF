@@ -8,24 +8,24 @@ We built it to practise structs, enums, arrays, file handling and splitting a C 
 
 <table>
   <tr>
-    <td><img src="docs/screenshots/home.png" alt="Home screen"><br><sub>Home</sub></td>
-    <td><img src="docs/screenshots/subjects.png" alt="Subject list"><br><sub>Subject list</sub></td>
+    <td align="center"><img src="screenshots/home.png" alt="Home screen" width="420"><br><sub>Home</sub></td>
+    <td align="center"><img src="screenshots/subjects.png" alt="Subject list" width="420"><br><sub>Subject list</sub></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/add-subject.png" alt="Add subject popup"><br><sub>Adding a subject</sub></td>
-    <td><img src="docs/screenshots/attendance.png" alt="Attendance screen"><br><sub>Attendance screen</sub></td>
+    <td align="center"><img src="screenshots/add-subject.png" alt="Add subject popup" width="420"><br><sub>Adding a subject</sub></td>
+    <td align="center"><img src="screenshots/attendance.png" alt="Attendance screen" width="420"><br><sub>Attendance screen</sub></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/marking.png" alt="Marking attendance"><br><sub>Marking P / A / L</sub></td>
-    <td><img src="docs/screenshots/add-student.png" alt="Add student popup"><br><sub>Adding a student</sub></td>
+    <td align="center"><img src="screenshots/marking.png" alt="Marking attendance" width="420"><br><sub>Marking P / A / L</sub></td>
+    <td align="center"><img src="screenshots/add-student.png" alt="Add student popup" width="420"><br><sub>Adding a student</sub></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/reports.png" alt="Saved reports list"><br><sub>Saved reports</sub></td>
-    <td><img src="docs/screenshots/report-view.png" alt="Report view"><br><sub>Opening a report</sub></td>
+    <td align="center"><img src="screenshots/reports.png" alt="Saved reports list" width="420"><br><sub>Saved reports</sub></td>
+    <td align="center"><img src="screenshots/report-view.png" alt="Report view" width="420"><br><sub>Opening a report</sub></td>
   </tr>
 </table>
 
-The screenshots we took while testing (empty input, deleting, scrolling and so on) are in [`docs/screenshots/extra`](docs/screenshots/extra).
+The screenshots we took while testing (empty input, deleting, scrolling and so on) are in [`screenshots/extra`](screenshots/extra).
 
 ## What it does
 
@@ -41,8 +41,8 @@ Each report is a plain CSV file, so it also opens in Excel or Google Sheets.
 
 <table>
   <tr>
-    <td><img src="docs/screenshots/csv-editor.png" alt="Report CSV in a code editor" width="380"></td>
-    <td><img src="docs/screenshots/csv-excel.png" alt="Same report in a spreadsheet" width="300"></td>
+    <td><img src="screenshots/csv-editor.png" alt="Report CSV in a code editor" width="380"></td>
+    <td><img src="screenshots/csv-excel.png" alt="Same report in a spreadsheet" width="300"></td>
   </tr>
 </table>
 
